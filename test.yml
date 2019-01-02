@@ -3,3 +3,23 @@ jdk:
   - oraclejdk8
   - oraclejdk9
   - oraclejdk10
+job:
+  dept: ENGINEERING
+  structures:
+    - BX
+    - B1
+    - B2
+    - B3
+  team:
+    Pinal:
+      s: F
+      a: 22
+    Anish:
+      s: M
+      a: 22
+    Arka:
+      s: M
+      a: 30
+    Abhilash:
+      s: M
+      a: 22
