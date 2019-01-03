@@ -23,3 +23,13 @@ job:
     Abhilash:
       s: M
       a: 22
+employees:
+  - Arka:
+      eid: 1290
+      team: RECO
+  - Pinal:
+      eid: 1745
+      team: RECO
+  - Anish:
+      eid: 1746
+      team: RECO
